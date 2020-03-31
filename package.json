@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^0.12.1",
+    "tesseract.js": "^2.1.1"
+  }
 }
